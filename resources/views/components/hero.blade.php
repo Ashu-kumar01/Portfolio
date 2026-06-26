@@ -15,8 +15,11 @@
             </h1>
 
             <p class="mt-8 max-w-2xl text-lg md:text-xl text-muted font-sans font-light hero-element">
-                Building scalable web applications, secure RESTful APIs, and modern user experiences using Laravel, PHP,
-                React.js, and MySQL. Delivering clean, efficient, and business-driven solutions that scale with growth.
+                Building scalable and high-performance web applications, secure RESTful APIs, and modern responsive user
+                experiences using Laravel, PHP, React.js, JavaScript, MySQL, HTML5, CSS3, Bootstrap, and Tailwind CSS.
+                Specializing in custom web development, eCommerce solutions, CMS development, API integration, database
+                optimization, SEO-friendly websites, and performance optimization. Delivering clean, efficient,
+                mobile-friendly, and business-driven digital solutions that scale with growth.
             </p>
 
             {{-- <div class="mt-10 grid grid-cols-2 gap-4 max-w-xl hero-element">

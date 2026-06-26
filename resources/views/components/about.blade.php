@@ -6,18 +6,22 @@
                     About <br><span class="text-gradient">Ashwani Kushwaha.</span>
                 </h2>
                 <p class="text-muted text-lg leading-relaxed mb-6">
-                    I am a passionate Full Stack Developer with expertise in Laravel, PHP, React.js, JavaScript, and
-                    MySQL. I specialize in building scalable web applications, secure RESTful APIs, and responsive user
-                    interfaces that deliver seamless user experiences. With a strong foundation in both backend and
-                    frontend development, I focus on creating efficient, maintainable, and performance-driven solutions
-                    that solve real-world business challenges.
+                    I am a passionate Full Stack Developer with expertise in Laravel, PHP, React.js, JavaScript,
+                    MySQL, HTML5, CSS3, Bootstrap, and Tailwind CSS. I specialize in building scalable web
+                    applications, secure RESTful APIs, custom web solutions, and responsive user interfaces that
+                    deliver seamless user experiences. With a strong foundation in both backend and frontend
+                    development, I focus on creating SEO-friendly websites, eCommerce platforms, CMS solutions,
+                    and performance-driven applications that solve real-world business challenges.
                 </p>
+
                 <p class="text-muted text-lg leading-relaxed">
-                    Over the years, I have worked on developing and optimizing web applications, designing database
-                    architectures, integrating third-party services, and improving application performance. I enjoy
-                    turning complex requirements into clean, user-friendly products while following modern development
-                    standards and best practices. My goal is to continuously learn, innovate, and contribute to projects
-                    that create meaningful value for businesses and users alike.
+                    Over the years, I have worked on developing and optimizing web applications, designing
+                    efficient database architectures, integrating third-party APIs and payment gateways,
+                    implementing authentication systems, and improving website speed and performance. I enjoy
+                    turning complex requirements into clean, user-friendly, mobile-responsive products while
+                    following modern development standards, coding best practices, and search engine optimization
+                    techniques. My goal is to continuously learn, innovate, and contribute to projects that
+                    create meaningful value for businesses and users alike.
                 </p>
 
                 <div class="grid grid-cols-2 gap-8 mt-12">

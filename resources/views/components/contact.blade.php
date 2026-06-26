@@ -1,8 +1,12 @@
 <section id="contact" class="py-32 relative">
     <div class="max-w-7xl mx-auto px-6">
         <div class="glass-card rounded-[3rem] p-10 md:p-20 relative overflow-hidden">
-            <div class="absolute top-0 right-0 w-[300px] h-[300px] bg-accent1/20 rounded-full blur-[80px] pointer-events-none"></div>
-            <div class="absolute bottom-0 left-0 w-[300px] h-[300px] bg-accent2/20 rounded-full blur-[80px] pointer-events-none"></div>
+            <div
+                class="absolute top-0 right-0 w-[300px] h-[300px] bg-accent1/20 rounded-full blur-[80px] pointer-events-none">
+            </div>
+            <div
+                class="absolute bottom-0 left-0 w-[300px] h-[300px] bg-accent2/20 rounded-full blur-[80px] pointer-events-none">
+            </div>
 
             <div class="grid grid-cols-1 md:grid-cols-2 gap-16 relative z-10">
                 <div>
@@ -10,8 +14,9 @@
                         Let's Build <br><span class="text-gradient">Something Amazing.</span>
                     </h2>
                     <p class="text-muted text-lg mb-10">
-                        Available for Laravel-focused web development, responsive UI work, admin panels, APIs, and
-                        database-driven business applications.
+                        Available for full-stack Laravel development, custom business web applications, responsive
+                        frontend development, secure RESTful APIs, admin dashboards, ERP solutions, eCommerce platforms,
+                        database-driven systems, website performance optimization, and SEO-friendly digital experiences.
                     </p>
 
                     <div class="space-y-6">
@@ -26,7 +31,8 @@
                             </div>
                             <span class="font-medium">ashwanikumar6266@gmail.com</span>
                         </a>
-                        <a href="tel:+916266195711" class="flex items-center gap-4 text-textMain hover:text-accent2 transition-colors cursor-hover">
+                        <a href="tel:+916266195711"
+                            class="flex items-center gap-4 text-textMain hover:text-accent2 transition-colors cursor-hover">
                             <div class="w-12 h-12 rounded-full glass-card flex items-center justify-center">
                                 <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -69,13 +75,15 @@
                     @csrf
 
                     @if (session('contact_success'))
-                        <div class="rounded-xl border border-success/20 bg-success/10 px-4 py-3 text-sm font-medium text-success">
+                        <div
+                            class="rounded-xl border border-success/20 bg-success/10 px-4 py-3 text-sm font-medium text-success">
                             {{ session('contact_success') }}
                         </div>
                     @endif
 
                     @if (session('contact_error'))
-                        <div class="rounded-xl border border-accent3alt/20 bg-accent3alt/10 px-4 py-3 text-sm font-medium text-accent3alt">
+                        <div
+                            class="rounded-xl border border-accent3alt/20 bg-accent3alt/10 px-4 py-3 text-sm font-medium text-accent3alt">
                             {{ session('contact_error') }}
                         </div>
                     @endif

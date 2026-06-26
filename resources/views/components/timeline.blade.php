@@ -11,7 +11,7 @@
             'role' => 'Web Developer - Laravel',
             'company' => 'Xampp India Software Pvt. Ltd.',
             'location' => 'Raipur, Chhattisgarh, India',
-            'description' => 'Implemented core modules such as user dashboards, admin panels, CRUD operations, and form handling in Laravel-based projects. Built RESTful APIs using Laravel for frontend and third-party integrations, contributing from requirement analysis to deployment with a focus on backend logic, database design, and API development.',
+            'description' => 'Developing scalable web applications and custom business solutions using Laravel, PHP, MySQL, JavaScript, and RESTful APIs. Implementing user dashboards, admin panels, authentication systems, CRUD modules, and third-party API integrations while focusing on database optimization, secure backend architecture, SEO-friendly development, and application performance optimization.',
             'accent' => 'accent1',
             'reverse' => false,
         ],
@@ -20,7 +20,7 @@
             'role' => 'Web Developer | Web Designer',
             'company' => 'Reliable Services',
             'location' => 'Raipur, Chhattisgarh, India 492001',
-            'description' => 'Developed and maintained responsive, user-centric web interfaces using HTML5, CSS3, JavaScript, jQuery, Bootstrap, Tailwind CSS, PHP, SQL, and Laravel. Converted Figma designs into polished layouts and improved performance, accessibility, SEO, and cross-browser compatibility.',
+            'description' => 'Designed, developed, and maintained responsive websites, educational ERP systems, business portals, and eCommerce platforms using HTML5, CSS3, JavaScript, jQuery, Bootstrap, Tailwind CSS, PHP, Laravel, and MySQL. Converted Figma designs into pixel-perfect interfaces while improving website speed, SEO, accessibility, Core Web Vitals, and cross-browser compatibility.',
             'accent' => 'accent2',
             'reverse' => true,
         ],
@@ -29,7 +29,7 @@
             'role' => 'Bachelor of Technology in Computer Science',
             'company' => 'Rungta College of Engineering and Technology',
             'location' => 'Raipur, Chhattisgarh, India',
-            'description' => 'Completed B.Tech in Computer Science with 74.9%, building the foundation for web development, database design, programming, and scalable application architecture.',
+            'description' => 'Graduated with a Bachelor of Technology in Computer Science (74.9%), gaining strong knowledge in software engineering, web development, database management systems, object-oriented programming, data structures, algorithms, and scalable application architecture.',
             'accent' => 'accent3',
             'reverse' => false,
         ],
@@ -74,8 +74,11 @@
                 <p class="mt-3 text-textMain/70 max-w-3xl">
                     I build scalable digital products by combining robust backend architecture,
                     optimized databases, and modern user interfaces. My expertise spans the
-                    complete development lifecycle—from planning and system design to deployment,
-                    maintenance, and performance optimization.
+                    complete development lifecycle—from requirement analysis, system design,
+                    and custom web application development to deployment, maintenance,
+                    SEO optimization, and website performance enhancement. I specialize in
+                    Laravel, PHP, React.js, MySQL, RESTful APIs, ERP systems, eCommerce
+                    solutions, and business-driven software development.
                 </p>
             </div>
 
@@ -85,8 +88,9 @@
                     <div class="text-3xl mb-3">⚙️</div>
                     <h4 class="font-semibold mb-2">Backend Development</h4>
                     <p class="text-sm text-textMain/70">
-                        Laravel, PHP, RESTful APIs, authentication systems, business logic,
-                        middleware, queues, and third-party integrations.
+                        Laravel, PHP, RESTful API development, authentication systems,
+                        role-based access control, middleware, queues, payment gateway
+                        integration, third-party APIs, and scalable backend architecture.
                     </p>
                 </div>
 
@@ -94,8 +98,9 @@
                     <div class="text-3xl mb-3">🗄️</div>
                     <h4 class="font-semibold mb-2">Database Engineering</h4>
                     <p class="text-sm text-textMain/70">
-                        MySQL schema design, query optimization, indexing strategies,
-                        performance tuning, and scalable database architecture.
+                        MySQL database design, schema architecture, query optimization,
+                        indexing strategies, stored procedures, data migration,
+                        performance tuning, and scalable database management.
                     </p>
                 </div>
 
@@ -103,8 +108,9 @@
                     <div class="text-3xl mb-3">💻</div>
                     <h4 class="font-semibold mb-2">Frontend Development</h4>
                     <p class="text-sm text-textMain/70">
-                        React.js, JavaScript, Tailwind CSS, Bootstrap, responsive design,
-                        component-based architecture, and UI implementation.
+                        React.js, JavaScript, Tailwind CSS, Bootstrap, HTML5, CSS3,
+                        responsive web design, component-based UI development,
+                        Figma to HTML conversion, and SEO-friendly interfaces.
                     </p>
                 </div>
 
@@ -112,8 +118,10 @@
                     <div class="text-3xl mb-3">🚀</div>
                     <h4 class="font-semibold mb-2">Performance & Delivery</h4>
                     <p class="text-sm text-textMain/70">
-                        Code optimization, Git workflows, CI/CD, debugging, testing,
-                        deployment, and long-term application maintenance.
+                        Website speed optimization, Core Web Vitals improvement,
+                        Git workflows, CI/CD pipelines, debugging, testing,
+                        cloud deployment, security best practices, and long-term
+                        application maintenance.
                     </p>
                 </div>
 
@@ -122,23 +130,23 @@
             <div class="mt-8 grid md:grid-cols-3 gap-4">
 
                 <div class="rounded-xl p-4 bg-primary/10 border border-primary/20">
-                    <h5 class="font-semibold">3+ Years Experience</h5>
+                    <h5 class="font-semibold">3.8+ Years Experience</h5>
                     <p class="text-sm text-textMain/70 mt-1">
-                        Delivering professional web solutions.
+                        Developing Laravel applications, ERP systems, and custom business solutions.
                     </p>
                 </div>
 
                 <div class="rounded-xl p-4 bg-primary/10 border border-primary/20">
                     <h5 class="font-semibold">Full Stack Expertise</h5>
                     <p class="text-sm text-textMain/70 mt-1">
-                        Backend, frontend, database, and deployment.
+                        Laravel, PHP, React.js, MySQL, APIs, UI/UX, and deployment.
                     </p>
                 </div>
 
                 <div class="rounded-xl p-4 bg-primary/10 border border-primary/20">
                     <h5 class="font-semibold">Clean & Scalable Code</h5>
                     <p class="text-sm text-textMain/70 mt-1">
-                        Maintainable architecture built for growth.
+                        Portfolio websites, ERP systems, eCommerce stores, and web applications.
                     </p>
                 </div>
 
