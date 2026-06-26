@@ -51,7 +51,7 @@
 </head>
 
 <body class="bg-secondary text-textMain overflow-x-hidden selection:bg-accent1 selection:text-white">
-    @include('components.preloader')
+    {{-- @include('components.preloader') --}}
     @include('components.cursor')
 
     @yield('content')
